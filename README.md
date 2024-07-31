@@ -30,7 +30,7 @@ I am a tech enthusiast who loves bringing ideas to life. Currently, I am enhanci
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=choubeyaditya80&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Aditya's Stats" height="165">
-    <img src="https://streak-stats.demolab.com?user=choubeyaditya80" alt="Aditya's Streak" height="165">
+    <img src="https://streak-stats.demolab.com?user=choubeyaditya80&theme=tokyonight&hide_border=true&mode=weekly" alt="Aditya's Streak" height="165">
   </p>
 </div>
 
